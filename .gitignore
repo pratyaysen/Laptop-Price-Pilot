@@ -2,13 +2,13 @@
 venv/
 
 # Ignore pickle files
-*.pkl
+#*.pkl
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
 # Ignore CSV if too large (optional)
-*.csv
+#*.csv
 
 # Python cache
 __pycache__/
