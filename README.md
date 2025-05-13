@@ -61,15 +61,17 @@ The result is displayed in a user-friendly format.
 🚀 Getting Started
 Clone the repository:
 
-git clone https://github.com/yourusername/laptop-price-predictor.git
+git clone https://github.com/pratyaysen/Laptop-Price-Pilot.git
 cd laptop-price-predictor
+
 Install dependencies:
-
 pip install -r requirements.txt
-Run the app:
 
+Run the app:
 streamlit run app.py
+
 📦 Requirements
+
 python 3.11.9
 
 pandas
